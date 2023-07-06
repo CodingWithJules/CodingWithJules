@@ -1,6 +1,6 @@
 # Jules
 
-### About Me
+### About Me 
 Hey there! I'm Jules, a passionate programmer with a keen interest in Python applications and ML algorithms. I enjoy exploring the realm of artificial intelligence and leveraging Python to develop innovative solutions.
 
 ### Interests
@@ -19,17 +19,3 @@ Looking forward to connecting with you and exploring new possibilities!
 
 Cheers,
 Jules
-
-
-
-
-- 👋 
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
-
-<!---
-CodingWithJules/CodingWithJules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
