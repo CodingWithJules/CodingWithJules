@@ -1,21 +1,38 @@
-# Jules
+## 👋, I'm [Jules Gdovic!](https://github.com/CodingWithJules/)
 
-### About Me 
-Hey there! I'm Jules, a passionate programmer with a keen interest in Python applications and ML algorithms. I enjoy exploring the realm of artificial intelligence and leveraging Python to develop innovative solutions.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com//)
 
-### Interests
-Currently, I'm diving deeper into Python applications and exploring various ML algorithms. I find the intersection of data science and machine learning fascinating, and I'm always on the lookout for new techniques and approaches to enhance my skills in this domain.
+I'm a graduate in Business Analytics 🎓. I'm passionate about the Analytics/ML field and continue to strengthen my background by learning new languages and domains💡. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. 
 
-### Learning Focus
-My current learning focus is on full-stack web development. I'm honing my skills in HTML, CSS, and JavaScript to create visually appealing and interactive web applications. I believe that combining my Python expertise with front-end web development will open up exciting opportunities to build robust and user-friendly applications.
+### Talking about Personal Stuffs:
 
-### Collaboration
-I'm eager to collaborate on a project that encompasses my interests in Python applications, ML algorithms, and full-stack web development. If you have an exciting project in mind that aligns with my skill set, I'd love to contribute and work together to bring it to life.
+- 🛠 &nbsp; I’m currently working with JavaScript, Python, R, SQL, p<br /> Nodejs, React, and Mongodb 
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/CodingWithJules).
+- 👾 &nbsp; Fun fact: 
+- 📫 &nbsp; How to reach me: jules.gdovic@icloud.com
+- 📝 &nbsp; Checkout my [Resume](https://).
 
-### Contact
-Feel free to reach out to me via email at jules.gdovic@icloud.com. I'm always open to connecting with fellow developers and discussing potential collaborations or exchanging knowledge.
+### Technical Interests:
 
-Looking forward to connecting with you and exploring new possibilities!
+- 📈 &nbsp; Leveraging analytics to resolve real-world problems.
+- 💻 &nbsp; Deploying & maintaining network servers. 
+- 👨🏻‍💻 &nbsp; Learning new languages to be able to support both web development and analytics.
 
-Cheers,
-Jules
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
+
+### Show some ❤️ by starring some of the repositories!
+
