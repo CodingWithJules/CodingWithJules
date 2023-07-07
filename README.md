@@ -5,11 +5,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com//)
 
-I'm a graduate in Business Analytics 🎓. I'm passionate about the Analytics/ML field and continue to strengthen my background by learning new languages and domains💡. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. 
+I'm a graduate in Business Analytics 🎓. I'm passionate about the Analytics/ML field and continue to strengthen my background by learning new languages and domains💡. < br /> I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with JavaScript, Python, R, SQL, p<br /> Nodejs, React, and Mongodb 
+- 🛠 &nbsp; I’m currently working with JavaScript, Python, R, SQL, <br /> Nodejs, React, and Mongodb 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/CodingWithJules).
 - 👾 &nbsp; Fun fact: 
