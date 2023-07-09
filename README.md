@@ -1,7 +1,7 @@
 ## 👋, I'm [Jules Gdovic!](https://github.com/CodingWithJules/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jules-gdovic)
-[![Tableau Badge](https://img.shields.io/badge/:badgeContent?logoColor=Orange)](https://public.tableau.com/app/profile/jules.gdovic)
+[![Tableau Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://public.tableau.com/app/profile/jules.gdovic)
 
 
 - 🎓 &nbsp; B.S. Business Analytics.
