@@ -12,7 +12,7 @@
 - 🛠 &nbsp; I’m currently working with JavaScript, Python, R, SQL, Nodejs, React, and Mongodb.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/CodingWithJules).
-- 👾 &nbsp; Fun fact: 
+- 👾 &nbsp; My Tableau profile can be found here: [Tableau](https://public.tableau.com/app/profile/jules.gdovic).
 - 📫 &nbsp; How to reach me: jules.gdovic@icloud.com
 - 📝 &nbsp; Checkout my [Resume](https://linkedin.com/in/jules-gdovic).
 
