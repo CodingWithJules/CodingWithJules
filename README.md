@@ -1,8 +1,7 @@
 ## 👋, I'm [Jules Gdovic!](https://github.com/CodingWithJules/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tableau-0e76a8?style=flat-square&logo=Tableau&logoColor=orange)](https://linkedin.com/in/jules-gdovic)
-[![Tableau Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://public.tableau.com/app/profile/jules.gdovic)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jules-gdovic)
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-0e76a8?style=flat-circle&logo=Tableau&logoColor=orange)](https://public.tableau.com/app/profile/jules.gdovic)
 
 - 🎓 &nbsp; B.S. Business Analytics.
 - ❤️‍🔥 &nbsp; Passionate about the Analytics/ML field and continue to strengthen my background by learning new languages and domains💡. 
