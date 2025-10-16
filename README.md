@@ -4,23 +4,22 @@
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-0e76a8?style=flat-circle&logo=Tableau&logoColor=orange)](https://public.tableau.com/app/profile/jules.gdovic)
 
 - 🎓 &nbsp; B.S. Business Analytics.
-- ❤️‍🔥 &nbsp; Passionate about the Analytics/ML field and continue to strengthen my background by learning new languages and domains💡. 
-- 🤓 &nbsp; I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms. 
+- ❤️‍🔥 &nbsp; Passionate about the AI/MLops field and continue to strengthen my background by learning new languages and domains💡. 
+- 🤓 &nbsp; I'm currently into developing real-world AI solutions 🕸️ and working on building repositories centered around RAG and Agentic AI solutions. 
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JavaScript, Python, R, SQL, Nodejs, React, and Mongodb.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Python-based AI/ML frameworks to develop AI-powered solutions and deploy via cloud infrastructure (e.g. AWS). 
+- 🚀 &nbsp; I’m currently working with FastAPI, LangChain, and docker to run local dev testing on RAG-Agentic workflows.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/CodingWithJules).
-- 👾 &nbsp; My Tableau profile can be found here: [Tableau](https://public.tableau.com/app/profile/jules.gdovic).
 - 📫 &nbsp; How to reach me: jules.gdovic@icloud.com
 - 📝 &nbsp; Checkout my [Resume](https://linkedin.com/in/jules-gdovic).
 
 ### Technical Interests:
 
-- 📈 &nbsp; Leveraging analytics to resolve real-world problems.
-- 💻 &nbsp; Deploying & maintaining network servers. 
-- 👨🏻‍💻 &nbsp; Learning new languages to be able to support both web development and analytics.
+- 📈 &nbsp; Leveraging AI to resolve real-world problems.
+- 💻 &nbsp; Deploying RAG and Agentic solutions to cloud-based systems. 
+- 👨🏻‍💻 &nbsp; Keeping up-to-date with all current and emerging AI tech.
 
 ### Languages and Tools:
 
