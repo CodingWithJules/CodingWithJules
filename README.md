@@ -10,7 +10,7 @@
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Python-based AI/ML frameworks to develop AI-powered solutions and deploy via cloud infrastructure (e.g. AWS). 
-- 🚀 &nbsp; I’m currently working with FastAPI, LangChain, and docker to run local dev testing on RAG-Agentic workflows.
+- 🚀 &nbsp; In a dev testing environment, I work most with FastAPI, LangChain, and docker to run local dev testing on RAG-Agentic workflows.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/CodingWithJules).
 - 📫 &nbsp; How to reach me: jules.gdovic@icloud.com
 - 📝 &nbsp; Checkout my [Resume](https://linkedin.com/in/jules-gdovic).
