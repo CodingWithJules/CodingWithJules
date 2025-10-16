@@ -4,7 +4,7 @@
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-0e76a8?style=flat-circle&logo=Tableau&logoColor=orange)](https://public.tableau.com/app/profile/jules.gdovic)
 
 - 🎓 &nbsp; B.S. Business Analytics.
-- ❤️‍🔥 &nbsp; Passionate about the AI/MLops field and continue to strengthen my background by learning new languages and domains💡. 
+- ❤️‍🔥 &nbsp; Passionate about the AI/MLops field and continue to strengthen my background by learning new languages and domains.
 - 🤓 &nbsp; I'm currently into developing real-world AI solutions 🕸️ and working on building repositories centered around RAG and Agentic AI solutions. 
 
 ### Talking about Personal Stuff:
